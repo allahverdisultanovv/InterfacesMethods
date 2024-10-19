@@ -1,0 +1,15 @@
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\İnterfaceStaticMembers\bin\Debug\net6.0\İnterfaceStaticMembers.exe
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\İnterfaceStaticMembers\bin\Debug\net6.0\İnterfaceStaticMembers.deps.json
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\İnterfaceStaticMembers\bin\Debug\net6.0\İnterfaceStaticMembers.runtimeconfig.json
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\İnterfaceStaticMembers\bin\Debug\net6.0\İnterfaceStaticMembers.dll
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\İnterfaceStaticMembers\bin\Debug\net6.0\İnterfaceStaticMembers.pdb
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\İnterfaceStaticMembers\obj\Debug\net6.0\İnterfaceStaticMembers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\İnterfaceStaticMembers\obj\Debug\net6.0\İnterfaceStaticMembers.AssemblyInfoInputs.cache
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\İnterfaceStaticMembers\obj\Debug\net6.0\İnterfaceStaticMembers.AssemblyInfo.cs
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\İnterfaceStaticMembers\obj\Debug\net6.0\İnterfaceStaticMembers.csproj.CoreCompileInputs.cache
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\İnterfaceStaticMembers\obj\Debug\net6.0\İnterfaceStaticMembers.sourcelink.json
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\İnterfaceStaticMembers\obj\Debug\net6.0\İnterfaceStaticMembers.dll
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\İnterfaceStaticMembers\obj\Debug\net6.0\refint\İnterfaceStaticMembers.dll
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\İnterfaceStaticMembers\obj\Debug\net6.0\İnterfaceStaticMembers.pdb
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\İnterfaceStaticMembers\obj\Debug\net6.0\İnterfaceStaticMembers.genruntimeconfig.cache
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\İnterfaceStaticMembers\obj\Debug\net6.0\ref\İnterfaceStaticMembers.dll

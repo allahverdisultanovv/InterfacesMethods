@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\C#\\\u0130nterfaceStaticMembers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAEA7DE-EF53-4941-857B-E68EF98ADC34}|\u0130nterfaceStaticMembers.csproj|c:\\users\\allahverdi\\desktop\\code\\backend\\c#\\\u0130nterfacestaticmembers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEAEA7DE-EF53-4941-857B-E68EF98ADC34}|\u0130nterfaceStaticMembers.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAEA7DE-EF53-4941-857B-E68EF98ADC34}|\u0130nterfaceStaticMembers.csproj|c:\\users\\allahverdi\\desktop\\code\\backend\\c#\\\u0130nterfacestaticmembers\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEAEA7DE-EF53-4941-857B-E68EF98ADC34}|\u0130nterfaceStaticMembers.csproj|solutionrelative:group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAEA7DE-EF53-4941-857B-E68EF98ADC34}|\u0130nterfaceStaticMembers.csproj|c:\\users\\allahverdi\\desktop\\code\\backend\\c#\\\u0130nterfacestaticmembers\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEAEA7DE-EF53-4941-857B-E68EF98ADC34}|\u0130nterfaceStaticMembers.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 228,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\C#\\\u0130nterfaceStaticMembers\\Group.cs",
+              "RelativeDocumentMoniker": "Group.cs",
+              "ToolTip": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\C#\\\u0130nterfaceStaticMembers\\Group.cs",
+              "RelativeToolTip": "Group.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T13:41:52.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\C#\\\u0130nterfaceStaticMembers\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\C#\\\u0130nterfaceStaticMembers\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAswDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T12:34:27.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\C#\\\u0130nterfaceStaticMembers\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\C#\\\u0130nterfaceStaticMembers\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T12:32:55.129Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
